@@ -9,4 +9,4 @@ Thanks and good luck!
 
 Sean Maisch
 
-Founding Team, Lead Front-End Developer
+Founding Team, Head of UI Engineering
